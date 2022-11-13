@@ -1,4 +1,3 @@
-# Naimijah
-alo
+# AS3 - Mid term exam 
 
-Julian
+First github use
